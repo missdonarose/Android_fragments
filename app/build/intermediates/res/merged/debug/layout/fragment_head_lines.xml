@@ -1,0 +1,13 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:orientation="vertical"
+    android:background="#FFFF80"
+    tools:context="com.example.dabduljalal.fragmentsexample.HeadLinesFragment">
+    <!-- TODO: Update blank fragment layout -->
+    <TextView android:id="@+id/text_headline1" android:clickable="true" android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:text="@string/headlines_fragment_line1" android:layout_gravity="center"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"/>
+    <TextView android:id="@+id/text_headline2" android:clickable="true" android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:text="@string/headlines_fragment_line2" />
+</LinearLayout>
+<!-- From: file:/C:/Users/dabduljalal/AndroidStudioProjects/FragmentsExample/app/src/main/res/layout/fragment_head_lines.xml -->

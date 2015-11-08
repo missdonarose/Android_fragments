@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:orientation="horizontal"
+   tools:context=".MainActivity">
+    <fragment android:name="com.example.dabduljalal.fragmentsexample.FirstFragment"
+    android:id="@+id/firstFragment"
+    android:layout_height="match_parent" android:layout_width="match_parent"
+    tools:layout="@layout/first_fragment">
+</fragment>
+</LinearLayout>
+<!-- From: file:/C:/Users/dabduljalal/AndroidStudioProjects/FragmentsExample/app/src/main/res/layout/activity_main.xml -->

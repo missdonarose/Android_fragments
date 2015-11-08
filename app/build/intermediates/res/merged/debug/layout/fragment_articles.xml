@@ -1,0 +1,8 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:background="#0FFFF0"
+    tools:context="com.example.dabduljalal.fragmentsexample.ArticlesFragment">
+    <TextView android:id="@+id/article_text" android:layout_width="match_parent" android:layout_height="match_parent"
+        android:text="@string/article_fragment_text" />
+</LinearLayout>
+<!-- From: file:/C:/Users/dabduljalal/AndroidStudioProjects/FragmentsExample/app/src/main/res/layout/fragment_articles.xml -->

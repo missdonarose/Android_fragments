@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FragmentsExample</string>
+    <string name="first_fragment_button">Click to Start App</string>
+    <string name="headlines_fragment_line1"><a>Climate conference to start soon.</a></string>
+    <string name="headlines_fragment_line2"><a>Local Polls held in India.</a></string>
+    <string name="article_fragment_text">No article selected</string>
+    <string name="article_fragment_details">More news about: </string>
+</resources>
